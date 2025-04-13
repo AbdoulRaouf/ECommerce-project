@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+/Front/node_modules/
+
+# Build
+/Front/dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database
+*.db
+ecommerce.db
+
+# OS
+.DS_Store
+Thumbs.db
